@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="setting_form.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="co_title" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test Co</Value>
+    </Setting>
+    <Setting Name="co_manager" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Parker</Value>
+    </Setting>
+    <Setting Name="co_adv" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Best Office Software</Value>
+    </Setting>
+    <Setting Name="co_tel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+142255225</Value>
+    </Setting>
+    <Setting Name="co_cell" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+545554444</Value>
+    </Setting>
+    <Setting Name="co_fax" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+9855444</Value>
+    </Setting>
+    <Setting Name="co_activity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Software</Value>
+    </Setting>
+    <Setting Name="co_email" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test@gmail.com</Value>
+    </Setting>
+    <Setting Name="co_site" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kamishasoft.com</Value>
+    </Setting>
+    <Setting Name="co_add" Type="System.String" Scope="User">
+      <Value Profile="(Default)">USA-2525</Value>
+    </Setting>
+    <Setting Name="co_language" Type="System.String" Scope="User">
+      <Value Profile="(Default)">US</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
